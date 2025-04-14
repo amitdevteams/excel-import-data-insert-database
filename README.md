@@ -1,9 +1,10 @@
 How to Run ?
 
-Composer update
-Setup database
+#Composer update
 
-php artisan serve
+#Setup database
+
+#php artisan serve
 
 Excel file example :- 1amit.xlsx
 
